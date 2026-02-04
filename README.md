@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **research work**
 
-- 👨‍💻 All of my projects are available at [momin99255](momin99255)
+- 👨‍💻 All of my projects are available at my [portfolio](momin9255.gt.tc)
 
 - 📫 How to reach me **mominulislam99255@gmail.com**
 
