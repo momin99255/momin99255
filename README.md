@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Mominul Islam</h1>
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5635AQE4BzjSh9sW0g/profile-framedphoto-shrink_400_400/B56Zq2PaVIJkAc-/0/1763994085079?e=1770832800&v=beta&t=OxgkPL25LZNEJuOi484kYyZ78nht4b6gDzvn5jbn0P4" alt="Md Mominul Islam" width="180" style="border-radius:50%;" />
+  <img src="https://media.licdn.com/dms/image/v2/D5635AQE4BzjSh9sW0g/profile-framedphoto-shrink_400_400/B56Zq2PaVIJkAc-/0/1763994085079?e=1770832800&v=beta&t=OxgkPL25LZNEJuOi484kYyZ78nht4b6gDzvn5jbn0P4" alt="Md Mominul Islam" width="250" style="border-radius:50%;" />
 </p>
 
 
