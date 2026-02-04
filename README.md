@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Mominul Islam</h1>
-<h3 align="center">A passionate learner</h3>
+<h3 align="center">A passionate learner focused on building and improving every day</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momin99255" alt="momin99255" /></a> </p>
 
-- 🔭 I’m currently working on **making websites**
+- 🔭 I’m currently working on [making websites](lifewear.gt.tc)
 
 - 🌱 I’m currently learning **PHP, JavaScript, Python**
 
