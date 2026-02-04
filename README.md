@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md Mominul Islam</h1>
+
+<p align="center">
+  <img src="IMG_20251202_151438.jpg" alt="Md Mominul Islam" width="180" style="border-radius:50%;" />
+</p>
+
+
 <h3 align="center">A passionate learner focused on building and improving every day</h3>
 
 - 🔭 I’m currently working on **making websites**
