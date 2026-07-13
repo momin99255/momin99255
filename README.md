@@ -23,7 +23,7 @@
 - 🔭 I'm currently working on **making websites**
 - 🌱 I'm currently learning **PHP, JavaScript, Python**
 - 👯 I'm looking to collaborate on **research work**
-- 🖥️ All of my projects are available on my [**Portfolio**]([https://github.com/momin99255/My-Portfolio](https://momin99255.github.io/My-Portfolio/))
+- 🖥️ All of my projects are available on my [**Portfolio**]([https://github.com/momin99255/My-Portfolio])
 - 📫 Reach me at **mominulislam99255@gmail.com**
 - 🎯 Focused on **research, web development & academic brilliance**
 - 📍 Based in **Matuail, Dhaka, Bangladesh**
