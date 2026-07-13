@@ -1,28 +1,142 @@
-<h1 align="center">Hi 👋, I'm Md Mominul Islam</h1>
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5635AQE4BzjSh9sW0g/profile-framedphoto-shrink_400_400/B56Zq2PaVIJkAc-/0/1763994085079?e=1770832800&v=beta&t=OxgkPL25LZNEJuOi484kYyZ78nht4b6gDzvn5jbn0P4" alt="Md Mominul Islam" width="250" style="border-radius:50%;" />
-</p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Md%20Mominul%20Islam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20Java%20%7C%20Research%20%7C%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<h3 align="center">A passionate learner focused on building and improving every day</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8AE234&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mominul;A+passionate+learner+%F0%9F%8C%B1;Currently+learning+PHP%2C+JavaScript%2C+Python;I+love+building+and+improving+every+day%21;Open+for+research+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on **making websites**
+<br/>
 
-- 🌱 I’m currently learning **PHP, JavaScript, Python**
+<img src="https://komarev.com/ghpvc/?username=momin99255&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<a href="https://github.com/momin99255?tab=followers">
+<img src="https://img.shields.io/github/followers/momin99255?label=Followers&style=for-the-badge&color=8AE234&logo=github" alt="followers"/>
+</a>
 
-- 👯 I’m looking to collaborate on **research work**
+</div>
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://momin99255.gt.tc)
+<br/>
 
-- 📫 How to reach me **mominulislam99255@gmail.com**
+## 🧑‍💻 About Me
 
-- I'm focusing on **research, web development and academic brilliance.**
+- 🔭 I'm currently working on **making websites**
+- 🌱 I'm currently learning **PHP, JavaScript, Python**
+- 👯 I'm looking to collaborate on **research work**
+- 🖥️ All of my projects are available on my [**Portfolio**](https://github.com/momin99255/My-Portfolio)
+- 📫 Reach me at **mominulislam99255@gmail.com**
+- 🎯 Focused on **research, web development & academic brilliance**
+- 📍 Based in **Matuail, Dhaka, Bangladesh**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/momin99255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="momin99255" height="30" width="40" /></a>
-<a href="https://facebook.com/momin99255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/momin99255" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,java,js,linux,mysql,php,python,r&theme=dark" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/momin99255/My-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=My-Portfolio&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/momin99255/Life-wear-ecommerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=Life-wear-ecommerce&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/momin99255/Food-Billing-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=Food-Billing-System&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/momin99255/3d-Cineplex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=3d-Cineplex&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/momin99255/Smart-and-Safe-Kitchen-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=Smart-and-Safe-Kitchen-System&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/momin99255/University-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=University-Management-System&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=momin99255&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=momin99255&theme=radical&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momin99255&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=momin99255&theme=radical&no-frame=true&row=1&column=7" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=momin99255&theme=react-dark&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/momin99255/momin99255/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚙️ Snake animation needs a one-time GitHub Actions setup — instructions below ⬇️</sub>
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:mominulislam99255@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/momin99255/My-Portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-764ba2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+
+</div>
