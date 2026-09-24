@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Md%20Mominul%20Islam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20Java%20%7C%20Research%20%7C%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Md%20Mominul%20Islam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20Java%20%7C%20AI/ML%20Research&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8AE234&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mominul;A+passionate+learner+%F0%9F%8C%B1;Currently+learning+Spring Boot%2C+Machine Learning%2C+Deep Learning;I+love+building+and+improving+every+day%21;Open+for+research+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8AE234&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mominul;A+Backend+Developer+%26+AI+Enthusiast;Building+scalable+systems+with+Spring+Boot;Exploring+Deep+Learning+%26+PyTorch;Open+for+research+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,12 +20,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently working on **making websites**
-- 🌱 I'm currently learning **PHP, JavaScript, Python**
-- 👯 I'm looking to collaborate on **research work**
+- 🔭 I'm currently working on **Java-based Backend Systems & Deep Learning Models**
+- 🌱 I'm currently learning **Advanced Spring Boot, PyTorch, and Docker**
+- 👯 I'm looking to collaborate on **AI Research & Backend Web Development**
 - 🖥️ All of my projects are available on my [**Portfolio**](https://momin99255.github.io/My-Portfolio/)
 - 📫 Reach me at **mominulislam99255@gmail.com**
-- 🎯 Focused on **research, web development & academic brilliance**
+- 🎯 Focused on **bridging software engineering and AI to solve real-world problems**
 - 📍 Based in **Matuail, Dhaka, Bangladesh**
 
 <br/>
@@ -34,37 +34,36 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,arduino,java,js,linux,mysql,php,python,r&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,mongodb,mysql,python,pytorch,docker,linux,c,cpp,js&theme=dark" />
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/momin99255/My-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=My-Portfolio&theme=radical&hide_border=true" />
+<!-- Tumi repo nam gulo thik thakle egulo auto show korbe -->
+<a href="https://github.com/momin99255/FYDP-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=FYDP-Tracker&theme=radical&hide_border=true" />
 </a>
+<a href="https://github.com/momin99255/Appointment-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=Appointment-Management-System&theme=radical&hide_border=true" />
+</a>
+
 <a href="https://github.com/momin99255/Life-wear-ecommerce">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=Life-wear-ecommerce&theme=radical&hide_border=true" />
 </a>
-
 <a href="https://github.com/momin99255/Food-Billing-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=Food-Billing-System&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/momin99255/3d-Cineplex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=3d-Cineplex&theme=radical&hide_border=true" />
-</a>
 
-<a href="https://github.com/momin99255/Smart-and-Safe-Kitchen-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=Smart-and-Safe-Kitchen-System&theme=radical&hide_border=true" />
-</a>
 <a href="https://github.com/momin99255/University-Management-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=University-Management-System&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/momin99255/My-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=My-Portfolio&theme=radical&hide_border=true" />
 </a>
 
 </div>
@@ -120,16 +119,13 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/momin99255/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="mailto:mominulislam99255@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/momin99255/My-Portfolio" target="_blank">
+<a href="https://momin99255.github.io/My-Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-764ba2?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
