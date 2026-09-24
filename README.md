@@ -1,52 +1,169 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Md%20Mominul%20Islam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20Java%20%7C%20AI%2FML%20Research&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8AE234&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mominul;A+Backend+Developer+%26+AI+Enthusiast;Building+Scalable+Systems+with+Spring+Boot;Exploring+Machine+Learning+%26+Deep+Learning;Open+for+Research+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:8AE234&height=230&section=header&text=Md%20Mominul%20Islam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20AI%2FML%20Research&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=momin99255&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="Profile Views"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=900&color=8AE234&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mominul;Java+Backend+Developer+%E2%98%95;Spring+Boot+%7C+REST+API+%7C+Microservices;Python+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Medical+Image+Analysis;Researcher+%7C+Builder+%7C+Continuous+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-&nbsp;&nbsp;
+<br/><br/>
+
+<!-- Animated Profile Badges -->
+<img src="https://komarev.com/ghpvc/?username=momin99255&label=PROFILE+VIEWS&color=764ba2&style=for-the-badge"/>
+
+&nbsp;
 
 <a href="https://github.com/momin99255?tab=followers">
-<img src="https://img.shields.io/github/followers/momin99255?label=Followers&style=for-the-badge&color=8AE234&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/momin99255?label=FOLLOWERS&style=for-the-badge&color=8AE234&logo=github"/>
 </a>
 
 </div>
 
 ---
+
+<!-- Animated Divider -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=667eea&height=3&section=header"/>
+
+</div>
 
 ## 🧑‍💻 About Me
 
-Hi, I'm **Md Mominul Islam**, a Computer Science student interested in building scalable backend systems and exploring Artificial Intelligence through research and practical projects.
-
-- 🔭 Currently working on **Java-based Backend Systems & Deep Learning Models**
-- 🌱 Currently learning **Advanced Spring Boot, PyTorch & Docker**
-- 🧠 Interested in **Machine Learning, Deep Learning & Computer Vision**
-- 👯 Looking to collaborate on **AI Research & Backend Web Development**
-- 💻 Building applications using **Java, Spring Boot, Python & Databases**
-- 🔬 Exploring **Deep Learning for Medical Image Analysis**
-- 🎯 Focused on **bridging Software Engineering and AI**
-- 📍 Based in **Dhaka, Bangladesh**
-- 📫 Email: **mominulislam99255@gmail.com**
-
-<br/>
-
----
-
-## 🛠️ Languages & Tools
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mongodb,mysql,python,pytorch,tensorflow,docker,linux,c,cpp,js,git,github&theme=dark" />
+<a href="https://github.com/momin99255">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1200&color=667EEA&center=true&vCenter=true&width=850&lines=Building+Backend+Systems+%F0%9F%92%BB;Exploring+AI+%26+Deep+Learning+%F0%9F%A4%96;Working+on+Medical+Image+Analysis+%F0%9F%A7%A0;Learning%2C+Experimenting%2C+Researching+%F0%9F%94%AC" />
+</a>
 
 </div>
 
 <br/>
+
+I'm **Md Mominul Islam**, a Computer Science student interested in building scalable backend systems and exploring Artificial Intelligence through research and practical projects.
+
+- 🔭 Working on **Java Backend Systems & Deep Learning Models**
+- 🌱 Learning **Spring Boot, PyTorch & Docker**
+- 🧠 Interested in **Machine Learning, Deep Learning & Computer Vision**
+- 🔬 Exploring **Medical Image Analysis**
+- 👯 Open to **AI Research & Backend Development Collaboration**
+- 🎯 Interested in combining **Software Engineering + AI**
+- 📍 Dhaka, Bangladesh
+- 📫 **mominulislam99255@gmail.com**
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=764ba2&height=3&section=header"/>
+
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### ☕ Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,mongodb,mysql,docker,linux&theme=dark"/>
+
+<br/><br/>
+
+### 🤖 AI / Research
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark"/>
+
+<br/><br/>
+
+### 💻 Programming & Tools
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,git,github&theme=dark"/>
+
+</div>
+
+---
+
+## ⚡ What I Do
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### ☕
+### Backend
+
+Java  
+Spring Boot  
+REST APIs  
+Microservices  
+Databases
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐍
+### AI / ML
+
+Python  
+Machine Learning  
+Deep Learning  
+PyTorch  
+TensorFlow
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+### Research
+
+Computer Vision  
+Medical Imaging  
+Experiments  
+Model Optimization  
+Analysis
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+### Engineering
+
+Git  
+Docker  
+Linux  
+System Design  
+Deployment
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/momin99255">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1000&color=8AE234&center=true&vCenter=true&width=850&lines=Plan+%E2%86%92+Code+%E2%86%92+Experiment+%E2%86%92+Research+%E2%86%92+Improve;Build+Systems+%7C+Train+Models+%7C+Solve+Problems" />
+
+</a>
+
+</div>
 
 ---
 
@@ -55,126 +172,81 @@ Hi, I'm **Md Mominul Islam**, a Computer Science student interested in building 
 <div align="center">
 
 <a href="https://github.com/momin99255/FYDP_Tracker">
-<img src="https://img.shields.io/badge/FYDP%20Tracker-Dementia%20Research-764ba2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🧠%20FYDP%20Tracker-Dementia%20Research-764ba2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/momin99255/appointment-system">
-<img src="https://img.shields.io/badge/Appointment%20System-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/📅%20Appointment%20System-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/momin99255/Dementia_classificcations">
-<img src="https://img.shields.io/badge/Dementia%20Classification-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/🧠%20Dementia%20Classification-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/momin99255/Life-wear-ecommerce">
-<img src="https://img.shields.io/badge/LifeWear-E--Commerce-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🛍️%20LifeWear-E--Commerce-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/momin99255/Smart-and-Safe-Kitchen-System">
-<img src="https://img.shields.io/badge/Smart%20%26%20Safe%20Kitchen-IoT-00878A?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/🍳%20Smart%20Kitchen-IoT-00878A?style=for-the-badge&logo=arduino&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://github.com/momin99255/My-Portfolio">
-<img src="https://img.shields.io/badge/My%20Portfolio-Web-667eea?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Web-667eea?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🔬 Research Focus
+
+<div align="center">
+
+<a href="https://github.com/momin99255/Dementia_classificcations">
+
+<img src="https://img.shields.io/badge/🧠%20Deep%20Learning-Research-764ba2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🩻%20MRI-Medical%20Imaging-667eea?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤖%20Machine%20Learning-Experiments-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/👁️%20Computer%20Vision-AI-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📊%20Model%20Optimization-Research-8AE234?style=for-the-badge"/>
+
 </a>
 
 </div>
 
 <br/>
 
----
-
-## 💡 What I Work With
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### ☕ Backend Development
-
-- Java
-- Spring Boot
-- REST APIs
-- Microservices
-- Database Design
-- MongoDB
-- MySQL
-- System Design
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI & Research
-
-- Python
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Medical Image Analysis
-- Model Optimization
-- PyTorch
-- TensorFlow
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔬 Research Interests
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Research-667eea?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-Research-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-AI-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Medical%20Imaging-MRI-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Model%20Optimization-Experiments-8AE234?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-### 🧠 Current Research Focus
-
-**Dementia Prediction using MRI Images**
-
-Exploring deep learning-based approaches for dementia classification using MRI data, including:
-
-- 🧠 CNN-based image classification
-- 📊 Image preprocessing
-- 🔬 Experimental model evaluation
-- ⚙️ Transfer learning
-- 🚀 Lightweight deep learning architectures
-- 📈 Model optimization
-- 🩻 Medical image analysis
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-| Area | Technologies |
-|---|---|
-| Backend | Java, Spring Boot, REST APIs |
-| AI/ML | Python, Machine Learning, Deep Learning |
-| Computer Vision | OpenCV, CNN, Medical Imaging |
-| Deep Learning | PyTorch, TensorFlow |
-| Database | MongoDB, MySQL |
-| DevOps | Docker, Linux, Git |
-| Software Engineering | System Design, Microservices |
-
-</div>
-
----
-
-## 🎯 Goals
+### 🧠 Current Research Direction
 
 ```text
-Learn → Build → Experiment → Research → Improve → Repeat
+MRI Images
+    │
+    ▼
+Image Preprocessing
+    │
+    ▼
+Deep Learning Models
+    │
+    ▼
+Experimentation
+    │
+    ▼
+Optimization
+    │
+    ▼
+Dementia Classification
