@@ -44,30 +44,28 @@
 
 <div align="center">
 
-<!-- Tumi repo nam gulo thik thakle egulo auto show korbe -->
-<a href="https://github.com/momin99255/FYDP-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=FYDP-Tracker&theme=radical&hide_border=true" />
+<a href="https://github.com/momin99255/FYDP_Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=FYDP_Tracker&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/momin99255/Appointment-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=Appointment-Management-System&theme=radical&hide_border=true" />
+<a href="https://github.com/momin99255/appointment-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=appointment-system&theme=radical&hide_border=true" />
 </a>
 
 <a href="https://github.com/momin99255/Life-wear-ecommerce">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=Life-wear-ecommerce&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/momin99255/Food-Billing-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=Food-Billing-System&theme=radical&hide_border=true" />
+<a href="https://github.com/momin99255/Dementia_classificcations">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=Dementia_classificcations&theme=radical&hide_border=true" />
 </a>
 
-<a href="https://github.com/momin99255/University-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=University-Management-System&theme=radical&hide_border=true" />
+<a href="https://github.com/momin99255/Smart-and-Safe-Kitchen-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=Smart-and-Safe-Kitchen-System&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/momin99255/My-Portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=momin99255&repo=My-Portfolio&theme=radical&hide_border=true" />
 </a>
 
 </div>
-
 <br/>
 
 ## 📊 GitHub Stats
